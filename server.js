@@ -98,4 +98,5 @@ process.on("SIGINT", () => {
   } else {
     process.exit(0);
   }
+  pool.end();
 });

@@ -1,3 +1,4 @@
 /node_modules
 events.jsonl
 server_events_*.jsonl
+sample_events_*.jsonl
